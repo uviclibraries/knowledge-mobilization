@@ -4,13 +4,13 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/broadcast-icon.png" style="float:right;width:180px;" alt="decorative">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Knowledge Mobilization - an Introduction
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 40-70 min
 
 ## Why TOOL NAME HERE? 
 
