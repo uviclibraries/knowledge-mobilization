@@ -3,7 +3,6 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
 <img src="images/broadcast-icon.png" style="float:right;width:180px;" alt="decorative">
 
 # Knowledge Mobilization - an Introduction
